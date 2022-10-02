@@ -1,3 +1,4 @@
+/*Link Fonte*/
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
 
 * {
@@ -128,6 +129,8 @@ body {
   text-decoration: none;
   color: #2b134b;
 }
+
+/*Media Query*/
 
 @media only screen and (max-width: 950px) {
   .card-login {
